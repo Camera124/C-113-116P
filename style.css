@@ -1,0 +1,17 @@
+body{
+    background-size: cover;
+}
+.heading{
+    width: 100%;
+    font-size: 23px;
+    margin: 0px;
+}
+canvas{
+    box-shadow: 5px 5px 5px black;
+    border: 2px solid black;
+    margin-top: 130px;
+    border-radius: 10px;
+}
+#save{
+    font-size: 22px;
+}
